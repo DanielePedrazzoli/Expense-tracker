@@ -1,3 +1,4 @@
+# Expense-tracker
 This project enables efficient tracking of financial transactions, allowing users to save each movement in a local database. Every transaction can be tagged, named, or further described for enhanced organization and clarity.
 Although simple in its design, this project gave me the opportunity to start working with Flutter’s database packages, particularly Isar.
 
